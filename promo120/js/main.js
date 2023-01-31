@@ -10,7 +10,7 @@
             //если ссылка в ссылка redirectUrl корректная
             localStorage.setItem('redirectUrl', redirectUrl.href); // указываем точкой входа домен с протоколом из redirectUrl
         }
-    } ///////// 
+    } /////////
 
 
     params.forEach(function (param) {
